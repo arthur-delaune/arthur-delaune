@@ -6,7 +6,7 @@ Business student at ESSEC Business School in Singapore and founder of an AI auto
 
 | Project | What it is | Skills |
 | --- | --- | --- |
-| [Villagio](https://github.com/arthur-delaune/Villagio) | Product scope, business model and go-to-market for a club-based marketplace for kids' activity gear | Product strategy, market analysis |
+| [Villagio](https://github.com/arthur-delaune/Villagio) | Co-founder. Product scope, business model and go-to-market for a club-based marketplace for kids' activity gear, admitted to the IESEG incubator | Product strategy, market analysis |
 | [sql-business-insights](https://github.com/arthur-delaune/sql-business-insights) | Eight business questions answered in SQL, with a Python runner and a data sanity check | SQL, Python |
 | [claude-code-workflows](https://github.com/arthur-delaune/claude-code-workflows) | Reusable Claude Code commands, a `CLAUDE.md` template and ten lessons on directing an AI coding agent | AI-assisted development |
 

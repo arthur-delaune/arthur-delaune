@@ -13,13 +13,15 @@ Business student at ESSEC Business School in Singapore and founder of an AI auto
 ## Background
 
 - **Founder, NORA Solutions** (2025): AI and automation services for SMEs and independent professionals.
-- **Partner Manager (work-study), Xerox France**: channel partners across France, Belgium and Luxembourg.
+- **Channel Partner Manager (Apprenticeship), Xerox France**: channel partners across France, Belgium and Luxembourg.
 - **ESSEC Business School, Singapore**: master's programme in international business and strategy (2026-2027).
 - **EMLV**: Master in Marketing & Customer Experience.
 
-## Currently learning
+## Learning
 
-SQL (done: University of Michigan, *Introduction to SQL*), Claude Code (done: Vanderbilt, *Claude Code: Software Engineering with Generative AI Agents*), and Python next.
+Completed: *Introduction to SQL* (University of Michigan) · *Claude Code: Software Engineering with Generative AI Agents* (Vanderbilt)
+
+Next: Python
 
 ## Contact
 
